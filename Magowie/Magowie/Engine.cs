@@ -27,6 +27,7 @@ namespace Magowie
             gracz = new Gracz();
             stworzenia.Add(new Ryboczlek());
             stworzenia.Add(new Ryboczlek());
+            stworzenia.Add(new Gargulec());
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             
@@ -39,6 +40,8 @@ namespace Magowie
             {
                 stworzenia[i].Initialize();
             }
+            stworzenia[1].Podaj_polozenie(10f, -7f);
+            stworzenia[2].Podaj_polozenie(-15f, -9f);
             gracz.Initialize();
             base.Initialize();
             

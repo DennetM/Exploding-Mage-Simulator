@@ -62,8 +62,10 @@ namespace Magowie.Stwory
 
         }
 
-        public void Podaj_polozenie()
+        public override void Podaj_polozenie(float s1, float s2)
         {
+            ryboczlekWorld *= Matrix.CreateTranslation(ryboczlekWorld.Forward * s1);
+            ryboczlekWorld *= Matrix.CreateTranslation(-ryboczlekWorld.Right * s2);
 
         }
 

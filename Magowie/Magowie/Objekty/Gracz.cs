@@ -30,7 +30,7 @@ namespace Magowie.Objekty
         public virtual void LoadContent(ContentManager content)
         {
             this.content = content;
-            model = content.Load<Model>(@"Models\corv");
+            model = content.Load<Model>(@"Models\ArsaMagiWalkLoop");
         }
 
         public void Update()

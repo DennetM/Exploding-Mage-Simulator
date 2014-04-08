@@ -21,7 +21,7 @@ namespace Magowie.Stwory
         public override void LoadContent(ContentManager content1)
         {
             this.content = content1;
-            model = content.Load<Model>(@"Models\corv");
+            model = content.Load<Model>(@"Models\Room-Fountain-raw-v2");
         }
 
         public override void Initialize()

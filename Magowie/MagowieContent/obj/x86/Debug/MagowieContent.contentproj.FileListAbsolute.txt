@@ -1,1 +1,5 @@
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\MagowieContent\obj\x86\Debug\MagowieContent.contentprojResolveAssemblyReference.cache
+D:\Projekty XNA\Magowie\Magowie\MagowieContent\obj\x86\Debug\MagowieContent.contentprojResolveAssemblyReference.cache
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\MagowieContent\obj\x86\Debug\MagowieContent.contentprojResolveAssemblyReference.cache
+D:\Pobrane\Magowie\Magowie\Magowie\MagowieContent\obj\x86\Debug\MagowieContent.contentprojResolveAssemblyReference.cache
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\MagowieContent\obj\x86\Debug\MagowieContent.contentprojResolveAssemblyReference.cache
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\MagowieContent\obj\x86\Debug\MagowieContent.contentprojResolveAssemblyReference.cache

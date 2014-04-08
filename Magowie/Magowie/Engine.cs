@@ -10,13 +10,14 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using Magowie.Objekty;
 using Magowie.Stwory;
+using Magowie.Pokoje;
 namespace Magowie
 {
     public class Engine : Microsoft.Xna.Framework.Game
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-
+        Pokoj pokoj;
         float aspectRatio;
         Gracz gracz;
 
@@ -24,6 +25,7 @@ namespace Magowie
         List<Stworki> stworzenia = new List<Stworki>();
         public Engine()
         {
+            pokoj = new Pokoj();
             gracz = new Gracz();
             stworzenia.Add(new Ryboczlek());
             stworzenia.Add(new Ryboczlek());
@@ -43,6 +45,7 @@ namespace Magowie
             stworzenia[1].Podaj_polozenie(10f, -7f);
             stworzenia[2].Podaj_polozenie(-15f, -9f);
             gracz.Initialize();
+            pokoj.Initialize();
             base.Initialize();
             
         }
@@ -53,6 +56,7 @@ namespace Magowie
             aspectRatio = graphics.GraphicsDevice.Viewport.AspectRatio;
 
             gracz.LoadContent(Content);
+            pokoj.LoadContent(Content, aspectRatio);
             for (int i = 0; i < stworzenia.Count; i++)
             {
                 stworzenia[i].LoadContent(Content);
@@ -82,6 +86,7 @@ namespace Magowie
 
             GraphicsDevice.Clear(Color.CornflowerBlue);
             gracz.Draw();
+            pokoj.Draw(gameTime);
             for (int i = 0; i < stworzenia.Count; i++)
             {
                 stworzenia[i].Draw(gameTime);

@@ -10,6 +10,7 @@ using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Content;
 using Magowie.Objekty;
 using Magowie.Camera;
+
 namespace Magowie.Objekty
 {
     class Gracz
@@ -30,11 +31,12 @@ namespace Magowie.Objekty
         public virtual void LoadContent(ContentManager content)
         {
             this.content = content;
-            model = content.Load<Model>(@"Models\ArsaMagiWalkLoop");
+            model = content.Load<Model>(@"Models\ArsaMagiWalkInit");
         }
 
         public void Update()
         {
+            
             camera.Update(playerWorld);
             KeyboardState keyBoardState = Keyboard.GetState();
             MouseState st = Mouse.GetState();

@@ -43,7 +43,7 @@ namespace Magowie.Camera
             desiredPosition = position;
             desiredTarget = target;
 
-            offsetDistance = new Vector3(0, 45, 200);
+            offsetDistance = new Vector3(0, 45, 400);
         }
 
         public void Update(Matrix chasedObjectsWorld)

@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>blend_root</Name>
     <Identity>
-      <SourceFilename>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\MagowieContent\Models\sampleModelTextured.fbx</SourceFilename>
+      <SourceFilename>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\MagowieContent\Models\sampleModelTextured.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>100 0 0 0 0 100 0 0 0 0 100 0 0 0 0 1</Transform>
@@ -54,7 +54,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>unnamed</Name>
       <Identity>
-        <SourceFilename>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\MagowieContent\Models\sampleModelTextured.fbx</SourceFilename>
+        <SourceFilename>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\MagowieContent\Models\sampleModelTextured.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
@@ -68,7 +68,7 @@
     <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
       <Name>None__sampleTexture2.png</Name>
       <Identity>
-        <SourceFilename>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\MagowieContent\Models\sampleModelTextured.fbx</SourceFilename>
+        <SourceFilename>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\MagowieContent\Models\sampleModelTextured.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
@@ -90,7 +90,7 @@
     <Resource ID="#Resource3" Type="Graphics:BasicMaterialContent">
       <Name>None__sampleTexture.png</Name>
       <Identity>
-        <SourceFilename>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\MagowieContent\Models\sampleModelTextured.fbx</SourceFilename>
+        <SourceFilename>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\MagowieContent\Models\sampleModelTextured.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

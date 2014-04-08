@@ -7,11 +7,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb</Output>
-      <Time>2014-04-06T14:00:00.7542419+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb</Output>
+      <Time>2011-01-29T19:13:48+01:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\sampleModel_0.xml</Key>
-        <Value>2014-04-06T14:02:10.1396423+02:00</Value>
+        <Value>2014-04-03T11:11:20.332546+02:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -20,14 +20,14 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb</Output>
-      <Time>2014-04-06T14:00:00.7552419+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb</Output>
+      <Time>2011-01-29T20:55:52+01:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\sampleModelTextured_0.xml</Key>
-        <Value>2014-04-06T14:02:10.4776616+02:00</Value>
+        <Value>2014-04-03T11:11:20.701546+02:00</Value>
       </Dependency>
-      <Request>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb</Request>
-      <Request>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb</Request>
+      <Request>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb</Request>
+      <Request>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb</Request>
     </Item>
     <Item>
       <Source>Models\Ship.fbx</Source>
@@ -35,13 +35,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Ship.xnb</Output>
-      <Time>2014-04-06T14:00:00.72124+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Ship.xnb</Output>
+      <Time>2010-09-13T11:40:50+02:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\Ship_0.xml</Key>
-        <Value>2014-04-06T14:02:13.1318134+02:00</Value>
+        <Value>2014-04-03T11:11:22.188546+02:00</Value>
       </Dependency>
-      <Request>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse_0.xnb</Request>
+      <Request>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse_0.xnb</Request>
     </Item>
     <Item>
       <Source>Models\corv.fbx</Source>
@@ -49,15 +49,15 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb</Output>
-      <Time>2014-04-06T14:00:00.7532418+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb</Output>
+      <Time>2012-12-06T16:18:31.9786455+01:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\corv_0.xml</Key>
-        <Value>2014-04-06T14:02:14.2968801+02:00</Value>
+        <Value>2014-04-03T11:11:23.473546+02:00</Value>
       </Dependency>
-      <Request>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb</Request>
-      <Request>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb</Request>
-      <Request>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb</Request>
+      <Request>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb</Request>
+      <Request>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb</Request>
+      <Request>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb</Request>
     </Item>
     <Item>
       <Source>Textures\sampleTexture.png</Source>
@@ -65,8 +65,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb</Output>
-      <Time>2014-04-06T14:00:00.757242+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb</Output>
+      <Time>2011-01-29T20:52:26+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\sampleTexture2.png</Source>
@@ -74,8 +74,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb</Output>
-      <Time>2014-04-06T14:00:00.7592422+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb</Output>
+      <Time>2011-01-29T20:52:26+01:00</Time>
     </Item>
     <Item>
       <Source>Models\ShipDiffuse.tga</Source>
@@ -83,22 +83,22 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse.xnb</Output>
-      <Time>2014-04-06T14:00:00.7242402+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse.xnb</Output>
+      <Time>2010-09-13T11:40:50+02:00</Time>
     </Item>
     <Item>
       <Source>Models\sampleModel.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Models\sampleModel_0.xml</Output>
-      <Time>2014-04-06T14:00:00.7542419+02:00</Time>
+      <Time>2011-01-29T19:13:48+01:00</Time>
     </Item>
     <Item>
       <Source>Models\sampleModelTextured.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Models\sampleModelTextured_0.xml</Output>
-      <Time>2014-04-06T14:00:00.7552419+02:00</Time>
+      <Time>2011-01-29T20:55:52+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\sampleTexture2.png</Source>
@@ -113,8 +113,8 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb</Output>
-      <Time>2014-04-06T14:00:00.7592422+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb</Output>
+      <Time>2011-01-29T20:52:26+01:00</Time>
     </Item>
     <Item>
       <Source>Textures\sampleTexture.png</Source>
@@ -129,15 +129,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb</Output>
-      <Time>2014-04-06T14:00:00.757242+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb</Output>
+      <Time>2011-01-29T20:52:26+01:00</Time>
     </Item>
     <Item>
       <Source>Models\Ship.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Models\Ship_0.xml</Output>
-      <Time>2014-04-06T14:00:00.72124+02:00</Time>
+      <Time>2010-09-13T11:40:50+02:00</Time>
     </Item>
     <Item>
       <Source>Models\ShipDiffuse.tga</Source>
@@ -152,15 +152,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse_0.xnb</Output>
-      <Time>2014-04-06T14:00:00.7242402+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse_0.xnb</Output>
+      <Time>2010-09-13T11:40:50+02:00</Time>
     </Item>
     <Item>
       <Source>Models\corv.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Models\corv_0.xml</Output>
-      <Time>2014-04-06T14:00:00.7532418+02:00</Time>
+      <Time>2012-12-06T16:18:31.9786455+01:00</Time>
     </Item>
     <Item>
       <Source>Models\Corvo_Body_d.tga</Source>
@@ -175,8 +175,8 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb</Output>
-      <Time>2014-04-06T14:00:00.4492244+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb</Output>
+      <Time>2012-10-14T08:02:58+02:00</Time>
     </Item>
     <Item>
       <Source>Models\Corvo_Hair_d.tga</Source>
@@ -191,8 +191,8 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb</Output>
-      <Time>2014-04-06T14:00:00.6032332+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb</Output>
+      <Time>2012-10-14T08:02:58+02:00</Time>
     </Item>
     <Item>
       <Source>Models\Corvo_Head_d.tga</Source>
@@ -207,8 +207,48 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb</Output>
-      <Time>2014-04-06T14:00:00.6562363+02:00</Time>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb</Output>
+      <Time>2012-10-14T08:03:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ArsaMagiWalkLoop.FBX</Source>
+      <Name>Models\ArsaMagiWalkLoop</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkLoop.xnb</Output>
+      <Time>2014-04-07T21:31:55.7413627+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ArsaMagiWalkLoop_0.xml</Key>
+        <Value>2014-04-07T21:32:41.6673627+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ArsaMagiWalkLoop.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ArsaMagiWalkLoop_0.xml</Output>
+      <Time>2014-04-07T21:31:55.7413627+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ArsaMagiWalkInit.FBX</Source>
+      <Name>Models\ArsaMagiWalkInit</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkInit.xnb</Output>
+      <Time>2014-04-07T21:31:55.7303627+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ArsaMagiWalkInit_0.xml</Key>
+        <Value>2014-04-07T21:32:41.1343627+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ArsaMagiWalkInit.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ArsaMagiWalkInit_0.xml</Output>
+      <Time>2014-04-07T21:31:55.7303627+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -216,10 +256,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\MagowieContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\MagowieContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\MagowieContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\MagowieContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -248,7 +288,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-03-20T17:09:30.3465833+01:00</Value>
+        <Value>2014-03-16T18:26:27.9686353+01:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

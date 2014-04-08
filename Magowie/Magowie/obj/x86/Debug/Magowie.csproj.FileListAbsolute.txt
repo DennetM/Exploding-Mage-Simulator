@@ -1,19 +1,76 @@
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Ship.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse_0.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Magowie.exe
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\obj\x86\Debug\Magowie.exe
-C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+D:\Projekty XNA\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+D:\Projekty XNA\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+D:\Projekty XNA\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projekty XNA\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+D:\Projekty XNA\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb
+D:\Pobrane\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Ship.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse_0.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb
+D:\Pobrane\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.csprojResolveAssemblyReference.cache
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.exe
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Ship.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.exe
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Magowie.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\obj\x86\Debug\Magowie.pdb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkLoop.xnb
+C:\Users\Rozpierdalator\Desktop\Nowy folder (3)\Magowie2222\Magowie\Magowie\Magowie\Magowie\bin\x86\Debug\Content\Models\ArsaMagiWalkInit.xnb

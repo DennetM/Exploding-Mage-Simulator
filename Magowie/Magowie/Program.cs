@@ -10,7 +10,7 @@ namespace Magowie
         /// </summary>
         static void Main(string[] args)
         {
-            using (Engine game = new Engine())
+            using (Render game = new Render())
             {
                 game.Run();
             }

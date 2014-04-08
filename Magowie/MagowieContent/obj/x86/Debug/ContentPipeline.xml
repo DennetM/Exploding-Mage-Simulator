@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\sampleModel.fbx</Source>
+      <Name>Models\sampleModel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModel.xnb</Output>
+      <Time>2014-04-06T14:00:00.7542419+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\sampleModel_0.xml</Key>
+        <Value>2014-04-06T14:02:10.1396423+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\sampleModelTextured.fbx</Source>
+      <Name>Models\sampleModelTextured</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\sampleModelTextured.xnb</Output>
+      <Time>2014-04-06T14:00:00.7552419+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\sampleModelTextured_0.xml</Key>
+        <Value>2014-04-06T14:02:10.4776616+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb</Request>
+      <Request>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Ship.fbx</Source>
+      <Name>Models\Ship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Ship.xnb</Output>
+      <Time>2014-04-06T14:00:00.72124+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Ship_0.xml</Key>
+        <Value>2014-04-06T14:02:13.1318134+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\corv.fbx</Source>
+      <Name>Models\corv</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\corv.xnb</Output>
+      <Time>2014-04-06T14:00:00.7532418+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\corv_0.xml</Key>
+        <Value>2014-04-06T14:02:14.2968801+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb</Request>
+      <Request>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb</Request>
+      <Request>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\sampleTexture.png</Source>
+      <Name>Textures\sampleTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture.xnb</Output>
+      <Time>2014-04-06T14:00:00.757242+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\sampleTexture2.png</Source>
+      <Name>Textures\sampleTexture2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2.xnb</Output>
+      <Time>2014-04-06T14:00:00.7592422+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ShipDiffuse.tga</Source>
+      <Name>Models\ShipDiffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse.xnb</Output>
+      <Time>2014-04-06T14:00:00.7242402+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sampleModel.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\sampleModel_0.xml</Output>
+      <Time>2014-04-06T14:00:00.7542419+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sampleModelTextured.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\sampleModelTextured_0.xml</Output>
+      <Time>2014-04-06T14:00:00.7552419+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\sampleTexture2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture2_0.xnb</Output>
+      <Time>2014-04-06T14:00:00.7592422+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\sampleTexture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Textures\sampleTexture_0.xnb</Output>
+      <Time>2014-04-06T14:00:00.757242+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ship.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Ship_0.xml</Output>
+      <Time>2014-04-06T14:00:00.72124+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ShipDiffuse.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\ShipDiffuse_0.xnb</Output>
+      <Time>2014-04-06T14:00:00.7242402+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\corv.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\corv_0.xml</Output>
+      <Time>2014-04-06T14:00:00.7532418+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Corvo_Body_d.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Body_d_0.xnb</Output>
+      <Time>2014-04-06T14:00:00.4492244+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Corvo_Hair_d.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Hair_d_0.xnb</Output>
+      <Time>2014-04-06T14:00:00.6032332+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Corvo_Head_d.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\Models\Corvo_Head_d_0.xnb</Output>
+      <Time>2014-04-06T14:00:00.6562363+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\MagowieContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\MagowieContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tomek\Documents\GitHub\Exploding-Mage-Simulator\Magowie\Magowie\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-20T17:09:30.3465833+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
